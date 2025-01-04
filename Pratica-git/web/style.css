@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NL+Guides&display=swap');
+#red{
+    color: red;
+    text-transform: uppercase;
+    font-family: "Playwrite NL Guides", cursive;
+}
+
+#Faster{
+font-size: 24px;  
+color: #ff4800;
+}
+
+div{
+background-color: black;
+}
+#Safe{
+color: orangered;
+}
+#web{
+  display: flex;  
+  justify-content:space-between;
+}
+#web2 {
+    display: flex;
+    gap: 2vw;
+    align-items: center;
+}
+
